@@ -48,8 +48,6 @@ Seasoned **Full Stack WordPress Developer** with a proven track record of delive
 - 🧰 [Sticky CTA Shortcode](https://github.com/DevMuhammadA/wp-sticky-cta)
 - ✉️ [Block Disposable Emails](https://github.com/DevMuhammadA/wp-block-disposable-emails)
 
-> Update any links above after you create/push those repos.
-
 ---
 
 ### Quick Stats
