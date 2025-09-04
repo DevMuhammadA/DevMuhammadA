@@ -2,7 +2,7 @@
 <!-- Replace YOUR_EMAIL / YOUR_UPWORK_URL / YOUR_LINKEDIN_URL -->
 
 <p align="center">
-  <img src="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg" alt="Muhammad Ahmed — WordPress Full-Stack Developer" width="100%" />
+  <img src="/assests/github_banner.jpg" alt="Muhammad Ahmed — WordPress Full-Stack Developer" width="100%" />
 </p>
 
 <!-- Animated typing line (same lines as before) -->
@@ -12,11 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+WordPress+Developer;WooCommerce+%7C+Performance+%7C+Security;Custom+Themes+%26+Plugins;APIs+%2F+Integrations+%2F+Automations">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+WordPress+Developer;WooCommerce+%7C+Performance+%7C+Security;Custom+Themes+%26+Plugins;APIs+%2F+Integrations+%2F+Automations" alt="Typing animation" />
-  </a>
-</p>
 
 <p align="center">
   <a href="mailto:muh.ahmedayoub@gmail.com"><img src="https://img.shields.io/badge/Email-Muhammad%20Ahmed-0ea5e9?style=flat&logo=gmail&logoColor=white" /></a>
