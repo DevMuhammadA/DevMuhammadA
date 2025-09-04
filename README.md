@@ -2,7 +2,14 @@
 <!-- Replace YOUR_EMAIL / YOUR_UPWORK_URL / YOUR_LINKEDIN_URL -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0EA5E9,100:111827&height=200&section=header&text=Muhammad%20Ahmed&fontColor=ffffff&fontSize=48&animation=twinkling" alt="Header" />
+  <img src="https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg" alt="Muhammad Ahmed — WordPress Full-Stack Developer" width="100%" />
+</p>
+
+<!-- Animated typing line (same lines as before) -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&center=true&vCenter=true&width=720&lines=Full+Stack+WordPress+Developer;WooCommerce+%7C+Performance+%7C+Security;Custom+Themes+%26+Plugins;APIs+%2F+Integrations+%2F+Automations">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&center=true&vCenter=true&width=720&lines=Full+Stack+WordPress+Developer;WooCommerce+%7C+Performance+%7C+Security;Custom+Themes+%26+Plugins;APIs+%2F+Integrations+%2F+Automations" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
@@ -12,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Muhammad%20Ahmed-0ea5e9?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_UPWORK_URL"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=flat&logo=upwork&logoColor=white" /></a>
+  <a href="mailto:muh.ahmedayoub@gmail.com"><img src="https://img.shields.io/badge/Email-Muhammad%20Ahmed-0ea5e9?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://pk.linkedin.com/in/muhammad-ahmed-ayoub"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/ahmeda56"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=flat&logo=upwork&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=DevMuhammadA&style=flat&color=0ea5e9" alt="Profile views" />
 </p>
 
@@ -62,9 +69,9 @@ Seasoned **Full Stack WordPress Developer** with a proven track record of delive
 ---
 
 ### Let’s build something great
-- 📧 Email: **YOUR_EMAIL**
-- 💼 Upwork: **YOUR_UPWORK_URL**
-- 🔗 LinkedIn: **YOUR_LINKEDIN_URL**
+- 📧 Email: muh.ahmedayoub@gmail.com
+- 💼 Upwork: https://www.upwork.com/freelancers/ahmeda56
+- 🔗 LinkedIn: https://pk.linkedin.com/in/muhammad-ahmed-ayoub
 
 <p align="center">
   <sub>© Muhammad Ahmed — WordPress & WooCommerce • Performance • Security</sub>
